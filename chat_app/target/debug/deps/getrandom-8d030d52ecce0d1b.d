@@ -1,0 +1,11 @@
+/home/naruto/Documents/git_repos/rust_app/chat_app/target/debug/deps/libgetrandom-8d030d52ecce0d1b.rmeta: /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/lib.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/error.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/util.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/util_libc.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/use_file.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/lazy.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/linux_android_with_fallback.rs
+
+/home/naruto/Documents/git_repos/rust_app/chat_app/target/debug/deps/getrandom-8d030d52ecce0d1b.d: /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/lib.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/error.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/util.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/util_libc.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/use_file.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/lazy.rs /home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/linux_android_with_fallback.rs
+
+/home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/lib.rs:
+/home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/error.rs:
+/home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/util.rs:
+/home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/util_libc.rs:
+/home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/use_file.rs:
+/home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/lazy.rs:
+/home/naruto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/linux_android_with_fallback.rs:
