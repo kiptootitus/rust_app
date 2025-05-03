@@ -1,1 +1,3 @@
-*.Cargo.toml
+*./Cargo.lock
+chat_app/target/
+chat_app/Cargo.lock
