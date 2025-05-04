@@ -1,3 +1,10 @@
-*./Cargo.lock
-chat_app/target/
-chat_app/Cargo.lock
+**/Cargo.lock
+**/target
+# Backup files
+*.rs.bk
+
+# Byproducts of certain editors
+*.swp
+*.swo
+.DS_Store
+*.log
